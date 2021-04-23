@@ -1,2 +1,1 @@
-# ZeroTwoBot
-bot.20
+# Dark Bot, sem criatividade pra colocar coisa aqui kkk
